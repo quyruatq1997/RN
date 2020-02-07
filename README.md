@@ -26,7 +26,7 @@
   react-native run-ios
   ```
   ## Build-with
-  [React Native](https://facebook.github.io/react-native/)
+  [React Native](https://facebook.github.io/react-native/)<br/>
   [React Navigation](https://reactnavigation.org/)
     
   
