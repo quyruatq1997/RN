@@ -5,16 +5,26 @@
   Documentation can be found: [React Native getting started](https://facebook.github.io/react-native/docs/getting-started)
   ## Installing
   Clone the project:
-  ```git clone https://github.com/quyruatq1997/RN.git```
+  ```sh
+  git clone https://github.com/quyruatq1997/RN.git
+  ```
   Run to install dependencies:
-  ```npm install```
+  ```sh
+  npm install
+  ```
   If you want dont'n want to use chrome debbug tool for debugging, you can use React debugging tool, install by:
-  ```npm install -g react-devtools```
+  ```sh
+  npm install -g react-devtools
+  ```
   ## Running
   If you use android device, run:
-  ```react-native run-android```
+  ```sh
+  react-native run-android
+  ```
   If you use ios device, run:
-  ```react-native run-ios```
+  ```sh
+  react-native run-ios
+  ```
   ## Build-with
   [React Native](https://facebook.github.io/react-native/)
   [React Navigation](https://reactnavigation.org/)
